@@ -1,0 +1,16 @@
+# Videos source
+*.mp4
+*.MP4
+
+# Conversion output
+slides_*/
+*.pdf
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS and editor files
+.DS_Store
+.vscode/
